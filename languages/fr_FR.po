@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MDWorks\n"
+"POT-Creation-Date: 2016-09-26 11:45+0200\n"
+"PO-Revision-Date: 2016-09-26 11:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mdworks_hosted_lists.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: mdworks_hosted_lists.php:83
+msgid "Paramètres"
+msgstr "Paramètres"
+
+#: mdworks_hosted_lists.php:111
+msgid "Erreur de récupération structure base de données"
+msgstr "Erreur de récupération structure base de données"
+
+#: mdworks_hosted_lists.php:149
+msgid "Nom d'utilisateur ou mot de passe incorrect."
+msgstr "Nom d'utilisateur ou mot de passe incorrect."
+
+#: mdworks_hosted_lists.php:161
+msgid "Erreur lors de la récupération de la structure de la base de données"
+msgstr "Erreur lors de la récupération de la structure de la base de données"
+
+#: mdworks_hosted_lists.php:181
+msgid "Données utilisateur enregistrées."
+msgstr "Données utilisateur enregistrées."
+
+#: mdworks_hosted_lists.php:184
+msgid "Identifiant base de données inconnu."
+msgstr "Identifiant base de données inconnu."
+
+#: mdworks_hosted_lists.php:195
+msgid "Le mapping est vide."
+msgstr "Le mapping est vide."
+
+#: mdworks_hosted_lists.php:210
+msgid "Tous les utilisateurs ont bien été enregistrés dans la base de données."
+msgstr ""
+"Tous les utilisateurs ont bien été enregistrés dans la base de données."
+
+#: views/vw-settings.php:12
+msgid "Connexion MDWorks"
+msgstr "Connexion MDWorks"
+
+#: views/vw-settings.php:20
+msgid "Nom d'utilisateur"
+msgstr "Nom d'utilisateur"
+
+#: views/vw-settings.php:23
+msgid "Login"
+msgstr "Login"
+
+#: views/vw-settings.php:29 views/vw-settings.php:32
+msgid "Mot de passe"
+msgstr "Mot de passe"
+
+#: views/vw-settings.php:39
+msgid "Connexion"
+msgstr "Connexion"
+
+#: views/vw-settings.php:50
+msgid "Déconnexion"
+msgstr "Déconnexion"
+
+#: views/vw-settings.php:62
+msgid "Sélection d'une base de données hébergée sur MDWorks"
+msgstr "Sélection d'une base de données hébergée sur MDWorks"
+
+#: views/vw-settings.php:70
+msgid "Base de données hébergée"
+msgstr ""
+
+#: views/vw-settings.php:85
+msgid "Choisissez une base sur MDWorks"
+msgstr "Choisissez une base sur MDWorks"
+
+#: views/vw-settings.php:98
+msgid "Supprimer la liaison"
+msgstr "Supprimer la liaison"
+
+#: views/vw-settings.php:159
+msgid "Correspondance entre les champs"
+msgstr ""
+
+#: views/vw-settings.php:168
+msgid "Base utilisateurs Wordpress"
+msgstr "Base utilisateurs Wordpress"
+
+#: views/vw-settings.php:170
+msgid "Base de données hébergée sur MDWorks"
+msgstr "Base de données hébergée sur MDWorks"
+
+#: views/vw-settings.php:179
+msgid "Sélectionnez un champ"
+msgstr "Sélectionnez un champ"
+
+#: views/vw-settings.php:180
+msgid "Identifiant"
+msgstr "Identifiant"
+
+#: views/vw-settings.php:181
+msgid "E-mail"
+msgstr "E-mail"
+
+#: views/vw-settings.php:182
+msgid "Prénom"
+msgstr "Prénom"
+
+#: views/vw-settings.php:183
+msgid "Nom"
+msgstr "Nom"
+
+#: views/vw-settings.php:184
+msgid "Site web"
+msgstr "Site web"
+
+#: views/vw-settings.php:197
+msgid "Enregistrer et ajouter les utilisateurs existants"
+msgstr "Enregistrer et ajouter les utilisateurs existants"
+
+#: views/vw-settings.php:206
+msgid "Ce base de données ne contient pas de champs."
+msgstr "Ce base de données ne contient pas de champs."
+
+#: views/vw-settings.php:212
+msgid "Aucune base de données sélectionnée."
+msgstr "Aucune base de données sélectionnée."
+
+#. Plugin Name of the plugin/theme
+msgid "MDWorks"
+msgstr "MDWorks"
+
+#. Description of the plugin/theme
+msgid ""
+"Plugin permettant de synchroniser une base de données hébergée sur MDWorks "
+"avec les utilisateurs Wordpress."
+msgstr ""
+"Plugin permettant de synchroniser une base de données hébergée sur MDWorks "
+"avec les utilisateurs Wordpress."
+
+#. Author of the plugin/theme
+msgid "Ediware"
+msgstr "Ediware"
+
+#. Author URI of the plugin/theme
+msgid "http://www.ediware.net/"
+msgstr "http://www.ediware.net/"
+
+#~ msgid ""
+#~ "Plugin simple permettant d'ajouter des nouveaux utilisateurs Wordpress à "
+#~ "une base de données."
+#~ msgstr ""
+#~ "Plugin simple permettant d'ajouter des nouveaux utilisateurs Wordpress à "
+#~ "une base de données."
+
+#~ msgid "Spirion"
+#~ msgstr "Spirion"
+
+#~ msgid "http://www.spirion.fr/"
+#~ msgstr "http://www.spirion.fr/"
